@@ -1,4 +1,6 @@
-<h1>Haider Zaidi</h1>
+<h2 align="center">About</h2>
+<p >Hello, I'm Haider Zaidi, a 2nd year student at Ghulam Ishaq Khan Institute(GIKI) completing my CS degree.
+Also a Full Stack Web Developer on the side and looking to expand my skillset continuously.</p>
 
 <h2 align="center">Social Links</h2>
 <p align="center">
@@ -61,7 +63,7 @@ To Add Later:
 <img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 </a>
 </p>
-<p align="center"><strong>Tech: Node.js, MongoDB, Express, JavaScript, HTML, CSS</strong></p>Full Stack Web App implementing a Tier List. User inputs a category and then add items to the tier which they believe belongs there. Also upgrade or downgrade a tier or delete altogether</p>
+<p align="center"><strong>Tech: Node.js, MongoDB, Express, JavaScript, HTML, CSS</strong></p>Full Stack Web Application implementing a Tier List. User inputs a category and then add items to the tier which they believe belongs there. Also upgrade or downgrade a tier or delete altogether</p>
 </div>  
   
 <td width="50%">
