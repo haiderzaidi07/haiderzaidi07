@@ -92,8 +92,8 @@ To Add Later:
 <img src="https://github-readme-stats.vercel.app/api?username=haiderzaidi07&theme=algolia&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" width="50%" alt="ramblingadam's GitHub stats" /></a>
 <a href="http://www.github.com/haiderzaidi07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haiderzaidi07&theme=algolia&hide_border=true" width="50%"/></a>
 
-
-<h2> Codewars Stats</h2>
-<p align="left" dir="auto">
-  <a href="https://www.codewars.com/users/haiderzaidi07" rel="nofollow"><img src="https://www.codewars.com/users/haiderzaidi07/badges/large" style="max-width: 100%;"></a>
+ <!--
+<p align="left" dir="auto">Code Wars:
+<a href="https://www.codewars.com/users/haiderzaidi07" rel="nofollow"><img src="https://www.codewars.com/users/haiderzaidi07/badges/large" style="max-width: 50%;"></a>
 </p>
+-->
