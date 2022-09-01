@@ -20,7 +20,7 @@
 <h3 align="center" color="white">Tier List</h3>
 <div align="center" >  
 <a href='https://ashleydunnaway.com'>
-<img src="https://github.com/DunnTheRightWay/DunnTheRightWay/blob/main/portfolio.gif?raw=true" alt="Personal Portfolio" width="100%" />
+<img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/tierlist.gif?raw=true" alt="Personal Portfolio" width="100%" />
 </a>
 <br>
 <br>
@@ -39,7 +39,7 @@
 <h3 align="center" color="white">War: Card Game</h3>
 <div align="center" >  
 <a href='https://artistbiosearch.netlify.app/'>
-<img src="https://github.com/DunnTheRightWay/artistbiosearchapp/blob/master/artistsearch.gif?raw=true" alt="Artist Biography Search App" width="100%" />
+<img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/war.gif?raw=true" alt="Artist Biography Search App" width="100%" />
 </a>
 <br>
 <br>
