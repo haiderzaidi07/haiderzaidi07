@@ -6,19 +6,19 @@ Also a Full Stack Web Developer on the side and looking to expand my skillset co
 <p align="center">
 
 <a href="https://linkedin.com/in/haider-zaidi-" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-informational??style=plastic&logo=linkedin" height=25>
+<img src="https://img.shields.io/badge/LinkedIn-informational??style=plastic&logo=linkedin" height=20>
 </a>
 
 <a href="https://github.com/haiderzaidi07" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-informational??style=plastic&logo=GitHub" height=25>
+<img src="https://img.shields.io/badge/GitHub-informational??style=plastic&logo=GitHub" height=20>
 </a>
 
 <a href="https://www.codewars.com/users/haiderzaidi07" target="_blank">
-<img src="https://img.shields.io/badge/CodeWars-informational??style=plastic&logo=codewars" height=25>
+<img src="https://img.shields.io/badge/CodeWars-informational??style=plastic&logo=codewars" height=20>
 </a>
 
 <a href="https://leetcode.com/haiderzaidi07/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-informational??style=plastic&logo=Leetcode" height=25>
+<img src="https://img.shields.io/badge/LeetCode-informational??style=plastic&logo=Leetcode" height=20>
 </a>
 
 <!--
@@ -33,14 +33,14 @@ To Add Later:
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
- <img src="https://img.shields.io/badge/C++-blue?style=plastic&logo=cplusplus" height=25>
-<img src="https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript" height=25>
-<img src="https://img.shields.io/badge/HTML5-blue?style=plastic&logo=html5" height=25>
-<img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3" height=25>
-<img src="https://img.shields.io/badge/MongoDB-blue?style=plastic&logo=MongoDB" height=25>
-<img src="https://img.shields.io/badge/Express.js-blue?style=plastic&logo=Express" height=25>
-<img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=Node.js" height=25>
-<img src="https://img.shields.io/badge/Git-blue?style=plastic&logo=Git" height=25>
+ <img src="https://img.shields.io/badge/C++-blue?style=plastic&logo=cplusplus" height=20>
+<img src="https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript" height=20>
+<img src="https://img.shields.io/badge/HTML5-blue?style=plastic&logo=html5" height=20>
+<img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3" height=20>
+<img src="https://img.shields.io/badge/MongoDB-blue?style=plastic&logo=MongoDB" height=20>
+<img src="https://img.shields.io/badge/Express.js-blue?style=plastic&logo=Express" height=20>
+<img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=Node.js" height=20>
+<img src="https://img.shields.io/badge/Git-blue?style=plastic&logo=Git" height=20>
 </p>
 
 <h2 align="center">Projects</h2>
