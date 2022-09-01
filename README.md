@@ -1,14 +1,33 @@
 <h1>Haider Zaidi</h1>
 
+<h2 align="center">Social Links</h2>
+<p align="center">
 
+<a href="https://linkedin.com/in/haider-zaidi-" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-informational??style=plastic&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/haiderzaidi07" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-informational??style=plastic&logo=GitHub"/>
+</a>
 
 <a href="https://www.codewars.com/users/haiderzaidi07" target="_blank">
 <img src="https://img.shields.io/badge/CodeWars-informational??style=plastic&logo=codewars"/>
 </a>
 
-<a href="https://linkedin.com/in/haider-zaidi-" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-informational??style=plastic&logo=linkedin"/>
+<a href="https://leetcode.com/haiderzaidi07/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-informational??style=plastic&logo=Leetcode"/>
 </a>
+
+<!--
+To Add Later:
+- Portfolio Website
+- Twitter
+- Resume
+- Mail
+-->
+
+ </p>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
