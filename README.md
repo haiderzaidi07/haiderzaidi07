@@ -19,16 +19,16 @@
 <td width="50%">
 <h3 align="center" color="white">Tier List</h3>
 <div align="center" >  
-<a href='https://ashleydunnaway.com'>
+<a href='https://tier-list-heroku.herokuapp.com/'>
 <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/tierlist.gif?raw=true" alt="Personal Portfolio" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/DunnTheRightWay/artistbiosearchapp" target="_blank">
+<a href="https://github.com/haiderzaidi07/tier-list" target="_blank">
 <img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
 </a>  
-<a href="https://ashleydunnaway.com" target="_blank">
+<a href="https://tier-list-heroku.herokuapp.com/" target="_blank">
 <img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
 </a>
 </p>
@@ -38,16 +38,16 @@
 <td width="50%">
 <h3 align="center" color="white">War: Card Game</h3>
 <div align="center" >  
-<a href='https://artistbiosearch.netlify.app/'>
+<a href='https://haiderzaidi07.github.io/war-card-game/'>
 <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/war.gif?raw=true" alt="Artist Biography Search App" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/DunnTheRightWay/artistbiosearchapp" target="_blank">
+<a href="https://github.com/haiderzaidi07/war-card-game" target="_blank">
 <img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
 </a>  
-<a href="https://artistbiosearch.netlify.app/" target="_blank">
+<a href="https://haiderzaidi07.github.io/war-card-game/" target="_blank">
 <img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
 </a>
 </p>
