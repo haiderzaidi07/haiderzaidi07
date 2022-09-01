@@ -4,19 +4,19 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/haider-zaidi-" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-informational??style=plastic&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-informational??style=plastic&logo=linkedin" height=25>
 </a>
 
 <a href="https://github.com/haiderzaidi07" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-informational??style=plastic&logo=GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-informational??style=plastic&logo=GitHub" height=25>
 </a>
 
 <a href="https://www.codewars.com/users/haiderzaidi07" target="_blank">
-<img src="https://img.shields.io/badge/CodeWars-informational??style=plastic&logo=codewars"/>
+<img src="https://img.shields.io/badge/CodeWars-informational??style=plastic&logo=codewars" height=25>
 </a>
 
 <a href="https://leetcode.com/haiderzaidi07/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-informational??style=plastic&logo=Leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-informational??style=plastic&logo=Leetcode" height=25>
 </a>
 
 <!--
@@ -61,7 +61,7 @@ To Add Later:
 <img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 </a>
 </p>
-<p><strong>BRRRRR</strong> - ENTER DESCRIPTION HERE</p>
+<p align="center"><strong>Tech: Node.js, MongoDB, Express, JavaScript, HTML, CSS</strong></p>Full Stack Web Application implementing a Tier List. User inputs a category and then add items to the tier which they believe belongs there. Also upgrade or downgrade a tier or delete altogether</p>
 </div>  
   
 <td width="50%">
@@ -80,7 +80,7 @@ To Add Later:
 <img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 </a>
 </p>
-<p><strong>BRRRR</strong> - DESCRIPTION HERE</p>
+<p align="center"><strong>Tech: API, JavaScript, HTML, CSS</strong></p>Web Application for the card game called "War". Player who draws the higher value card wins the round and takes both cards. Player who collects cards in the whole deck first, Wins!</p>
 </div>
 
 </table>
