@@ -10,9 +10,19 @@
 <img src="https://img.shields.io/badge/LinkedIn-informational??style=plastic&logo=linkedin"/>
 </a>
 
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
+ <img src="https://img.shields.io/badge/C++-blue?style=plastic&logo=cplusplus" height=25>
+<img src="https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript" height=25>
+<img src="https://img.shields.io/badge/HTML5-blue?style=plastic&logo=html5" height=25>
+<img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3" height=25>
+<img src="https://img.shields.io/badge/MongoDB-blue?style=plastic&logo=MongoDB" height=25>
+<img src="https://img.shields.io/badge/Express.js-blue?style=plastic&logo=Express" height=25>
+<img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=Node.js" height=25>
+<img src="https://img.shields.io/badge/Git-blue?style=plastic&logo=Git" height=25>
+</p>
 
-
-<h2 align="center">Projects </h2>
+<h2 align="center">Projects</h2>
 <div align="center">
 <table>
 <tr>
@@ -29,7 +39,7 @@
 <img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
 </a>  
 <a href="https://tier-list-heroku.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
+<img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 </a>
 </p>
 <p><strong>BRRRRR</strong> - ENTER DESCRIPTION HERE</p>
@@ -48,7 +58,7 @@
 <img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
 </a>  
 <a href="https://haiderzaidi07.github.io/war-card-game/" target="_blank">
-<img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
+<img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 </a>
 </p>
 <p><strong>BRRRR</strong> - DESCRIPTION HERE</p>
