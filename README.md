@@ -61,7 +61,7 @@ To Add Later:
 <img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 </a>
 </p>
-<p align="center"><strong>Tech: Node.js, MongoDB, Express, JavaScript, HTML, CSS</strong></p>Full Stack Web Application implementing a Tier List. User inputs a category and then add items to the tier which they believe belongs there. Also upgrade or downgrade a tier or delete altogether</p>
+<p align="center"><strong>Tech: Node.js, MongoDB, Express, JavaScript, HTML, CSS</strong></p>Full Stack Web App implementing a Tier List. User inputs a category and then add items to the tier which they believe belongs there. Also upgrade or downgrade a tier or delete altogether</p>
 </div>  
   
 <td width="50%">
