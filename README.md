@@ -110,7 +110,7 @@ To Add Later:
 <h3 align="center" color="white">StrateGIK</h3>
 <div align="center" >  
 <a href='https://strategik.herokuapp.com/'>
-<img src="" alt="StateGIK homepage" width="100%" />
+<img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik.gif?raw=true" alt="StateGIK homepage" width="100%" />
 </a>
 <br>
 <br>
