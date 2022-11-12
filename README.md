@@ -39,6 +39,7 @@ To Add Later:
 <img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3" height=20>
 <img src="https://img.shields.io/badge/MongoDB-blue?style=plastic&logo=MongoDB" height=20>
 <img src="https://img.shields.io/badge/Express.js-blue?style=plastic&logo=Express" height=20>
+<img src="https://img.shields.io/badge/React.js-blue?style=plastic&logo=React" height=20>
 <img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=Node.js" height=20>
 <img src="https://img.shields.io/badge/Git-blue?style=plastic&logo=Git" height=20>
 </p>
@@ -56,14 +57,17 @@ To Add Later:
 <br>
 <br>
 <p>
-<a href="https://github.com/haiderzaidi07/tier-list" target="_blank">
-<img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
-</a>  
-<a href="https://tier-list-heroku.herokuapp.com/" target="_blank">
+ <a href="https://tier-list.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 </a>
+<a href="https://github.com/haiderzaidi07/tier-list-frontend" target="_blank">
+<img src="https://img.shields.io/badge/-Frontend-blue??style=plastic&logo=github"/>
+</a>
+<a href="https://github.com/haiderzaidi07/tier-list-backend" target="_blank">
+<img src="https://img.shields.io/badge/Backend-blue??style=plastic&logo=github"/>
+</a>  
 </p>
-<p align="center"><strong>Tech: Node.js, MongoDB, Express, JavaScript, EJS, CSS</strong></p>Full Stack Web Application implementing a Tier List. User inputs a category and then add items to the tier which they believe belongs there. Also upgrade or downgrade a tier or delete altogether</p>
+<p align="center"><strong>Tech: MongoDB, Express, React.js, Node.js, JavaScript, CSS, HTML</strong></p>Full Stack Web Application implementing a Tier List. User inputs a category and then add items to the tier which they believe belongs there. Also upgrade or downgrade a tier or delete altogether</p>
 </div>  
   
 <td width="50%">
@@ -75,12 +79,12 @@ To Add Later:
 <br>
 <br>
 <p>
-<a href="https://github.com/haiderzaidi07/war-card-game" target="_blank">
-<img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
-</a>  
 <a href="https://haiderzaidi07.github.io/war-card-game/" target="_blank">
 <img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 </a>
+<a href="https://github.com/haiderzaidi07/war-card-game" target="_blank">
+<img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
+</a>  
 </p>
 <p align="center"><strong>Tech: API, JavaScript, HTML, CSS</strong></p>Web Application for the card game called "War". Player who draws the higher value card wins the round and takes both cards. Player who collects cards in the whole deck first, Wins!</p>
 </div>
@@ -96,12 +100,12 @@ To Add Later:
 <br>
 <br>
 <p>
-<a href="https://github.com/haiderzaidi07/simple-calculator" target="_blank">
-<img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
-</a>  
 <a href="https://haiderzaidi07.github.io/simple-calculator/" target="_blank">
 <img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 </a>
+<a href="https://github.com/haiderzaidi07/simple-calculator" target="_blank">
+<img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
+</a>  
 </p>
 <p align="center"><strong>Tech: JavaScript, HTML, CSS</strong></p>Web Application for a simple Calculator</p>
 </div>
