@@ -113,16 +113,16 @@ To Add Later:
 <td width="50%">
 <h3 align="center" color="white">StrateGIK</h3>
 <div align="center" >  
-<a href='https://strategik.herokuapp.com/'>
+<!-- Add new deployed link instead of github repo link -->
+<a href="https://github.com/haiderzaidi07/strategik-beta">          
 <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik.gif?raw=true" alt="StateGIK homepage" width="100%" />
 </a>
 <br>
 <br>
 <p>
 </a>  
-<a href="https://strategik.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
-</a>
+<a href="https://github.com/haiderzaidi07/strategik-beta" target="_blank">
+<img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
 </p>
 <p align="center"><strong>Tech: Node.js, MongoDB, Express, JavaScript, EJS, Tailwind, CSS</strong></p>Full Stack Web Application built for students at GIKI Institute to share and use academic resources. Collaboration with <a href="http://www.github.com/talhaimtiaz09">Talha Imtiaz</a> who built the Frontend</p>
 </div> 
