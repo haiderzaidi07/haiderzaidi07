@@ -34,16 +34,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-informational??style=plastic&logo=linkedin" height=20>
 </a>
 
-<a href="https://twitter.com/haiderzaidi07" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-informational??style=plastic&logo=Twitter" height=20>
-</a>
-
 <a href="https://www.codewars.com/users/haiderzaidi07" target="_blank">
   <img src="https://img.shields.io/badge/CodeWars-informational??style=plastic&logo=codewars" height=20>
 </a>
 
 <!--
 To Add Later:
+- Twitter
 - Medium
 - Leetcode
 -->
@@ -61,20 +58,18 @@ To Add Later:
 		<img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=Node.js" height=20>
 		<img src="https://img.shields.io/badge/Git-blue?style=plastic&logo=Git" height=20>
 		<img src="https://img.shields.io/badge/Postman-blue?style=plastic&logo=Postman" height=20>
-		<img src="https://img.shields.io/badge/NPM-blue?style=plastic&logo=Npm" height=20>
+		<!-- <img src="https://img.shields.io/badge/NPM-blue?style=plastic&logo=Npm" height=20> -->
 </div>
 
 <h2 align="center">Projects</h2>
 
 <div align="center">
   <table>
-  		<tr>
+    <tr>
      <td width="50%">
        <h3 align="center" color="white">StrateGIK</h3>
        <div align="center">  
-           <a href="#" target="_blank">
-           <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik.gif?raw=true" alt="strategik" width="100%" />
-         </a>
+         <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik.gif?raw=true" alt="strategik" width="100%" />
          <br><br>
          <p>
           <!-- <a href="#" target="_blank">
@@ -88,43 +83,38 @@ To Add Later:
            <strong>MongoDB, Express, React.js, Node.js, Tailwind, JWT</strong>
          </p>
          <p>
-										 Full Stack Web Application built for students at GIKI Institute to share and use academic resources.
+					 Full Stack Web Application built for students at GIKI Institute to share and use academic resources.
          </p>
        </div>  
   			<td width="50%">
        <h3 align="center" color="white">Dehari</h3>
        <div align="center">  
-         <a href="#" target="_blank">
-           <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik.gif?raw=true" alt="strategik" width="100%" />
-         </a>
+      	 <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/dehari.gif?raw=true" alt="dehari" width="100%" />
          <br><br>
          <p>
-           <a href="#" target="_blank">
+           <a href="https://github.com/haiderzaidi07/dehari-frontend" target="_blank">
              <img src="https://img.shields.io/badge/Frontend-blue??style=plastic&logo=github"/>
            </a>
-											<a href="#" target="_blank">
+					 <a href="https://github.com/haiderzaidi07/dehari-backend" target="_blank">
 	            <img src="https://img.shields.io/badge/Backend-blue??style=plastic&logo=github"/>
 	          </a>
          </p>
          <p align="center">
            <strong>PostgreSQL, Express, React.js, Node.js, Tailwind, JWT</strong>
          </p>
-         <p>Full Stack Web Application implementing a Tier List. User inputs a category and then add items to the tier which they believe belongs there. Also  
-            upgrade or downgrade a tier or delete altogether
+         <p>
          </p>
        </div>		
 				<tr>
   				<td width="50%">
        <h3 align="center" color="white">Portfolio Website</h3>
        <div align="center">  
-         <a href="#" target="_blank">
-           <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik.gif?raw=true" alt="strategik" width="100%" />
-         </a>
+         <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/portfolio.gif?raw=true" alt="portfolio" width="100%" />
          <br><br>
          <p>
-											<a href="#" target="_blank">
-													<img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
-											</a>
+					<a href="https://haiderzaidi.netlify.app" target="_blank">
+							<img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
+					</a>
            <a href="#" target="_blank">
              <img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
            </a>
@@ -132,22 +122,19 @@ To Add Later:
          <p align="center">
            <strong>HTML, CSS</strong>
          </p>
-         <p>Full Stack Web Application implementing a Tier List. User inputs a category and then add items to the tier which they believe belongs there. Also  
-            upgrade or downgrade a tier or delete altogether
+         <p>
          </p>
        </div>		
 					<td width="50%">
 						<h3 align="center" color="white">Clipboard Landing Page</h3>
 						<div align="center">  
-										<a href="#" target="_blank">
-										<img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik.gif?raw=true" alt="strategik" width="100%" />
-								</a>
+								<img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/clipboard.gif?raw=true" alt="clipboard" width="100%" />
 								<br><br>
 								<p>
 										<a href="#" target="_blank">
 												<img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 										</a> 
-										<a href="https://github.com/haiderzaidi07/strategik-beta" target="_blank">
+										<a href="#" target="_blank">
 												<img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
 										</a>
 								</p>
@@ -155,7 +142,6 @@ To Add Later:
 										<strong>HTML, CSS</strong>
 								</p>
 								<p>
-										Full Stack Web Application built for students at GIKI Institute to share and use academic resources.
 								</p>
 						</div>  
 </table>
