@@ -27,15 +27,15 @@
 <div align="center">
 
 <a href="https://haiderzaidi.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Website-informational??style=plastic&logo=globe" height=20>
+	<img src="https://img.shields.io/badge/-Website-blue?style=plastic" height=20>
 </a>
 
 <a href="https://linkedin.com/in/haider-zaidi-" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-informational??style=plastic&logo=linkedin" height=20>
+	<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic" height=20>
 </a>
 
 <a href="https://www.codewars.com/users/haiderzaidi07" target="_blank">
-  <img src="https://img.shields.io/badge/CodeWars-informational??style=plastic&logo=codewars" height=20>
+	<img src="https://img.shields.io/badge/-CodeWars-B1361E?logo=codewars&logoColor=white&style=plastic" height=20>
 </a>
 
 <!--
@@ -48,17 +48,17 @@ To Add Later:
 
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
-		<img src="https://img.shields.io/badge/C++-blue?style=plastic&logo=cplusplus" height=20>
-		<img src="https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript" height=20>
-		<img src="https://img.shields.io/badge/HTML5-blue?style=plastic&logo=html5" height=20>
-		<img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3" height=20>
-		<img src="https://img.shields.io/badge/MongoDB-blue?style=plastic&logo=MongoDB" height=20>
-		<img src="https://img.shields.io/badge/Express.js-blue?style=plastic&logo=Express" height=20>
-		<img src="https://img.shields.io/badge/React.js-blue?style=plastic&logo=React" height=20>
-		<img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=Node.js" height=20>
-		<img src="https://img.shields.io/badge/Git-blue?style=plastic&logo=Git" height=20>
-		<img src="https://img.shields.io/badge/Postman-blue?style=plastic&logo=Postman" height=20>
-		<!-- <img src="https://img.shields.io/badge/NPM-blue?style=plastic&logo=Npm" height=20> -->
+		<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Express.js-444444?logo=express&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic" height=20>
+		<!-- <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColour=white&style=plastic" height=20> -->
 </div>
 
 <h2 align="center">Projects</h2>
