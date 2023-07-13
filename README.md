@@ -83,7 +83,7 @@ To Add Later:
            <strong>MongoDB, Express, React.js, Node.js, Tailwind, JWT</strong>
          </p>
          <p>
-					 Full Stack Web Application built for students at GIKI Institute to share and use academic resources.
+					 An application for students of GIK Institute to share and utilize academic resources, conveniently hosted on a centralized platform.
          </p>
        </div>  
   			<td width="50%">
@@ -103,6 +103,7 @@ To Add Later:
            <strong>PostgreSQL, Express, React.js, Node.js, Tailwind, JWT</strong>
          </p>
          <p>
+					 A dynamic freelancing platform developed using the PERN stack, providing seamless communication between freelancers and clients.
          </p>
        </div>		
 				<tr>
@@ -115,7 +116,7 @@ To Add Later:
 					<a href="https://haiderzaidi.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 					</a>
-           <a href="#" target="_blank">
+           <a href="https://github.com/haiderzaidi07/portfolio-website" target="_blank">
              <img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
            </a>
          </p>
@@ -123,6 +124,7 @@ To Add Later:
            <strong>HTML, CSS</strong>
          </p>
          <p>
+					 A polished and responsive portfolio website with a sleek design, built with HTML and CSS
          </p>
        </div>		
 					<td width="50%">
@@ -131,10 +133,10 @@ To Add Later:
 								<img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/clipboard.gif?raw=true" alt="clipboard" width="100%" />
 								<br><br>
 								<p>
-										<a href="#" target="_blank">
+										<a href="https://haiderzaidi07.github.io/clipboard-landing-page/" target="_blank">
 												<img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
 										</a> 
-										<a href="#" target="_blank">
+										<a href="https://github.com/haiderzaidi07/clipboard-landing-page" target="_blank">
 												<img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
 										</a>
 								</p>
@@ -142,6 +144,7 @@ To Add Later:
 										<strong>HTML, CSS</strong>
 								</p>
 								<p>
+									A responsive website with an appealing design, showcasing my frontend skills. 
 								</p>
 						</div>  
 </table>
