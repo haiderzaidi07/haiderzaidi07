@@ -75,7 +75,7 @@ To Add Later:
           <!-- <a href="#" target="_blank">
              <img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
            </a> -->
-           <a href="https://github.com/haiderzaidi07/strategik-beta" target="_blank">
+           <a href="https://github.com/haiderzaidi07/strategik-beta/tree/mern" target="_blank">
              <img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
            </a>
          </p>
