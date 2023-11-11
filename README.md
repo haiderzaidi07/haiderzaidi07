@@ -50,15 +50,19 @@ To Add Later:
 <div align="center">
 		<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" height=20>
+<!-- 		<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" height=20> -->
 		<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-Express.js-444444?logo=express&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Passport.js-34E27A?logo=passport&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic" height=20>
+<!-- 		<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic" height=20> -->
+		<img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic" height=20>
-		<!-- <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColour=white&style=plastic" height=20> -->
 </div>
 
 <h2 align="center">Projects</h2>
@@ -72,9 +76,9 @@ To Add Later:
          <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik.gif?raw=true" alt="strategik" width="100%" />
          <br><br>
          <p>
-          <!-- <a href="#" target="_blank">
+          <a href="https://strategik.netlify.app/" target="_blank">
              <img src="https://img.shields.io/badge/Live Site-blue??style=plastic"/>
-           </a> -->
+           </a>
            <a href="https://github.com/haiderzaidi07/strategik-beta/tree/mern" target="_blank">
              <img src="https://img.shields.io/badge/Code-blue??style=plastic&logo=github"/>
            </a>
