@@ -36,7 +36,7 @@
 	<img src="https://img.shields.io/badge/-CodeWars-B1361E?logo=codewars&logoColor=white&style=plastic" height=20>
 </a>
 
-<a href="https://www.codewars.com/users/haiderzaidi07" target="_blank">
+<a href="https://leetcode.com/haiderzaidi07" target="_blank">
 	<img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=plastic" height=20>
 </a>
 
@@ -50,6 +50,7 @@ To Add Later:
 
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
+		<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" height=20>
@@ -120,7 +121,7 @@ To Add Later:
   				<td width="50%">
        <h3 align="center" color="white">AlgoViz</h3>
        <div align="center">  
-         <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/portfolio.gif?raw=true" alt="portfolio" width="100%" />
+         <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/algoviz.gif?raw=true" alt="portfolio" width="100%" />
          <br><br>
          <p>
 					<a href="https://algovyz.netlify.app" target="_blank">
@@ -154,7 +155,7 @@ To Add Later:
 										<strong>MERN, Redux, Tailwind, JWT, Passport.js</strong>
 								</p>
 								<p>
-									An application for categorizing different items of a related class
+									An application for categorizing different items of a related class using CRUD operations
 								</p>
 						</div>  
 </table>
