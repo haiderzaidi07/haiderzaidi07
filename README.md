@@ -80,7 +80,7 @@ To Add Later:
      <td width="50%">
        <h3 align="center" color="white">StrateGIK</h3>
        <div align="center">  
-         <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik.gif?raw=true" alt="strategik" width="100%" />
+         <img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/strategik-new.gif?raw=true" alt="strategik" width="100%" />
          <br><br>
          <p>
           <a href="https://strategik.netlify.app/" target="_blank">
@@ -141,7 +141,7 @@ To Add Later:
 					<td width="50%">
 						<h3 align="center" color="white">Tier List</h3>
 						<div align="center">  
-								<img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/clipboard.gif?raw=true" alt="clipboard" width="100%" />
+								<img src="https://github.com/haiderzaidi07/haiderzaidi07/blob/main/tierlist-new.gif?raw=true" alt="clipboard" width="100%" />
 								<br><br>
 								<p>
 										<a href="https://tier-list.netlify.app" target="_blank">
