@@ -69,6 +69,7 @@ To Add Later:
 		<img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=plastic" height=20>
 <!-- 		<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic" height=20> -->
 </div>
 
@@ -91,7 +92,7 @@ To Add Later:
            </a>
          </p>
          <p align="center">
-           <strong>MongoDB, Express, React.js, Node.js, Tailwind, JWT</strong>
+           <strong>MERN, Tailwind, JWT, Cloudinary</strong>
          </p>
          <p>
 					 An application for students of GIK Institute to share and utilize academic resources, conveniently hosted on a centralized platform
