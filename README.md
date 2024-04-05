@@ -1,19 +1,19 @@
 <h2 align="center">About</h2> 
 <div>
 	
-👋 Hello there! I'm Haider Zaidi
+👋 Hello there! I'm Haider Zaidi, an individual who loves to build software as solutions to real-world problems.
 
 🌐 Open Source contributing is one of my passions. Collaborating with talented individuals worldwide, I love to work on various projects, expanding my knowledge in different domains.
 
-🛠️ Currently, I'm working on a project called "StrateGIK" that involves building a scalable and efficient socio-academic platform for students at my university.
+🛠️ Previously, I've built projects such as "StrateGIK" that involved building a scalable and efficient socio-academic platform for students at my university.
 
 <!-- ✍️ I'm also a writer on Medium, where I share my insights, tutorials, and experiences in the development world. You can find my articles on a variety of topics related to software development, MERN stack, and Blockchain technology. -->
 
 <!-- 💼 As a seasoned Freelancer, I've had the privilege of working on diverse projects, excelling in the MERN stack and crafting seamless user experiences. -->
 
-🚀 If you're seeking a driven and versatile developer to bring your ideas to life, I'd be thrilled to collaborate with you. Whether you need assistance with a web application, want to contribute to an open-source project, or explore Blockchain technology, <!-- or learn from my Medium articles, --> I'm here to help.
+🚀 If you're seeking a driven and versatile developer to bring your ideas to life, I'd be thrilled to collaborate with you. Whether you need assistance with a web application or want to contribute to an open-source project, <!-- or explore Blockchain technology, or learn from my Medium articles, --> I'm here to help.
 
-📩 Feel free to explore my GitHub repositories to get a glimpse of my work. If you have any questions or want to discuss potential collaborations, please reach out to me using this [contact form](https://haiderzaidi.netlify.app/#contact). 
+📩 Feel free to explore my GitHub repositories to get a glimpse of my work. If you have any questions or want to discuss potential collaborations, please reach out using this [contact form](https://haiderzaidi.netlify.app/#contact). 
 
 🙌 Thank you for visiting my profile, and I look forward to hearing from you soon!
 
