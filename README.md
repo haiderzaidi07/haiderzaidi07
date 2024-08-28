@@ -70,7 +70,15 @@ To Add Later:
 		<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=plastic" height=20>
 		<img src="https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=plastic" height=20>
-<!-- 		<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic" height=20> -->
+		<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Microsoft Azure-007fff?logo=&logoColor=white&style=plastic" height=20>
+		<img src="https://img.shields.io/badge/-Azure DevOps-007fff?logo=&logoColor=white&style=plastic" height=20>
+<!-- 		<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=plastic" height=20> -->
 </div>
 
 <h2 align="center">Projects</h2>
